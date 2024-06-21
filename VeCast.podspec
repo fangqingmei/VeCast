@@ -27,6 +27,6 @@ Pod::Spec.new do |s|
   # s.ios.frameworks = 'WebKit', 'JavaScriptCore'
   # s.libraries = "c++"
   
-  s.vendored_framework = 'VeCast/VeCast.framework'
+  s.vendored_framework = 'VeCast.framework'
   
 end
